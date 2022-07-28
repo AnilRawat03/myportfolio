@@ -37,7 +37,7 @@ export default function About() {
           <img width="250px"
             className="object-fit object-center rounded"
             alt="hero"
-            src="/StaticContent/anilpic.jpg"
+            src="StaticContent/anilpic.jpg"
           />
         </div>
       </div>
